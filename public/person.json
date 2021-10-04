@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "Name": "Robert Petinson",
+    "job": "React Trainer",
+    "rating": 4.9,
+    "reviews": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat",
+    "image": "https://spruko.com/demo/edomi/Edomi/assets/images/trainers/4.jpg"
+  },
+  {
+    "id": 2,
+    "Name": "Criss Morise",
+    "job": "Javascript Trainer",
+    "rating": 5,
+    "reviews": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat",
+    "image": "https://spruko.com/demo/edomi/Edomi/assets/images/trainers/6.jpg"
+  },
+  {
+    "id": 3,
+    "Name": "Criss Morise",
+    "job": "Web Designer",
+    "rating": 4.9,
+    "reviews": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat",
+    "image": "https://spruko.com/demo/edomi/Edomi/assets/images/trainers/3.jpg"
+  }
+]
