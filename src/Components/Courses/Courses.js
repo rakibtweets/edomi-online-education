@@ -5,6 +5,7 @@ import './Courses.css';
 
 const Courses = () => {
   const [courses, setCourses] = useState([]);
+  // loading api data
   useEffect(() => {
     fetch('./courses.json')
       .then((res) => res.json())
@@ -26,7 +27,7 @@ const Courses = () => {
         ))}
 
         <div className="text-center mt-3">
-          <Link className="nav-link view-all text-info" to="/courses">
+          <Link className="nav-link view-all text-info mb-3" to="/courses">
             Explore More Courses
           </Link>
         </div>

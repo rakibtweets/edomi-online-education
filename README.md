@@ -12,7 +12,7 @@
 - [Visual Studio Code](#visula-studio-code)
 - [Javascript(es6)](#js-es6)
 - [ReactJs](#ReactJs)
-- [ReactJs Routeing](#ReactJs)
+- [ReactJs Routing](#ReactJs-routing)
 - [Bootstrap 5](#bootstrap5)
 - [Node Packe Manager (NPM)](#npm)
 - [Yarn](#yarn)

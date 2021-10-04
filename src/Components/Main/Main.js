@@ -1,4 +1,5 @@
 import React from 'react';
+import Trainers from '../../Trainers/Trainers';
 import Banner from '../Banner/Banner';
 import Categories from '../Categories/Categories';
 import Courses from '../Courses/Courses';
@@ -9,6 +10,7 @@ const Main = () => {
       <Banner />
       <Categories />
       <Courses />
+      <Trainers />
     </div>
   );
 };
