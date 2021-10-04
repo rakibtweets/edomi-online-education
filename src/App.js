@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Main from './Components/Main/Main';
 import About from './Components/About/About';
-// import Footer from './Components/Footer/Footer';
+import Footer from './Components/Footer/Footer';
 import NotFound from './Components/NotFound/NotFound';
 import AllCourses from './Components/AllCourses/AllCourses';
 
@@ -30,6 +30,7 @@ function App() {
             <NotFound />
           </Route>
         </Switch>
+        <Footer />
       </Router>
     </div>
   );

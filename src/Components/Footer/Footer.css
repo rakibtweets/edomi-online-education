@@ -1,5 +1,14 @@
 .footer-container {
   text-align: center;
-  height: 100px;
-  background-color: gray;
+  height: 300px;
+  background-color: rgba(41, 38, 38);
+}
+.footer-link {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  padding-top: 1em;
+}
+.footer-link:hover {
+  color: white;
 }
