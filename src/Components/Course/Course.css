@@ -1,0 +1,12 @@
+.category {
+  padding: 0.2em 0.5em;
+  background-color: rgba(255, 0, 0, 0.2);
+  border-radius: 20px;
+  color: red;
+}
+.card-title {
+  font-weight: bold;
+}
+.card-title:hover {
+  color: #066e4f;
+}

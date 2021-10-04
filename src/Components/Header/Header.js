@@ -5,7 +5,7 @@ import './Header.css';
 
 const Header = () => {
   return (
-    <div className="header-container fixed">
+    <div className="header-container sticky-top">
       <Navbar>
         <Container>
           <Link className="fw-bold nav-link h3 text-secondary" to="/home">
