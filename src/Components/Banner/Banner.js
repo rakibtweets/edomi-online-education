@@ -4,7 +4,7 @@ import './Banner.css';
 
 const Banner = () => {
   return (
-    <div className="banner-section text-center">
+    <div className="banner-section text-center mb-3">
       <img className="img-fluid" src={img} alt="" />
       <div className="banner-info">
         <h3 className="display-4 fw-bold">Welcome to Edomi</h3>

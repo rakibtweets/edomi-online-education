@@ -6,7 +6,7 @@
     "enrolled": 8350,
     "category": "Design",
     "price": 149,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/best-ui-ux-design-courses-classes-certification-online-kb5s4q21.jpg"
   },
   {
     "id": 2,
@@ -16,7 +16,7 @@
 
     "category": "Development",
     "price": 99,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://i.pinimg.com/736x/ac/11/f6/ac11f69c776205174f07046bf9a25515.jpg"
   },
   {
     "id": 2,
@@ -26,7 +26,7 @@
 
     "category": "Development",
     "price": 149,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/4Q0byV2QfCLbgoDS7djA"
   },
   {
     "id": 3,
@@ -36,17 +36,17 @@
 
     "category": "Development",
     "price": 89,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png"
   },
   {
     "id": 4,
-    "CourseName": "Phython- Beginner to Advanced",
-    "instructor": "Tom Harry",
+    "CourseName": "Phython- Advanced Topic",
+    "instructor": "Json Statum",
     "enrolled": 3430,
 
     "category": "Development",
     "price": 89,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://www.askpython.com/wp-content/uploads/2021/02/advanced-topics-in-python.png"
   },
   {
     "id": 5,
@@ -56,17 +56,17 @@
 
     "category": "Development",
     "price": 199,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://i1.wp.com/onlinecoursesgalore.com/wp-content/uploads/2018/01/best-javascript-programming-courses-online.jpg?fit=800%2C445&ssl=1"
   },
   {
     "id": 6,
     "CourseName": "Git & GitHub - Practical Guide",
-    "instructor": "Nicola Jonson",
+    "instructor": "Sumit Saha",
     "enrolled": 4589,
 
     "category": "Development",
     "price": 199,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://editor.analyticsvidhya.com/uploads/18288git.jpg"
   },
   {
     "id": 7,
@@ -75,15 +75,15 @@
     "enrolled": 8830,
     "category": "Design",
     "price": 69,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://digifloat.io/wp-content/uploads/2021/02/Free-3D-Illustration-Twitter.jpg"
   },
   {
     "id": 8,
     "CourseName": "C# - Beginner to Advanced",
     "instructor": "Robert Petinson",
     "enrolled": 1092,
-    "category": "Design",
+    "category": "Development",
     "price": 69,
-    "image": "https://via.placeholder.com/500x500"
+    "image": "https://tetacourse.com/uploads/mini/full/e4/1627653042_complete-c-programming-course-2021-beginner-to-expert.webp"
   }
 ]
