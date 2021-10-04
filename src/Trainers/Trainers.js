@@ -5,7 +5,9 @@ import './Trainers.css';
 const Trainers = () => {
   return (
     <div className="trainer-container container">
-      <h2 className="text-center text-success fw-bold py-5">Our Trainers</h2>
+      <h2 className="text-center text-success fw-bold py-5">
+        Our Best Trainer
+      </h2>
       <div className="row trainer-card g-4">
         <div className="col-md-4">
           <Card className="p-1">
