@@ -21,6 +21,9 @@ const Header = () => {
             <Link className="menu-items" to="/courses">
               Courses
             </Link>
+            <Link className="menu-items" to="/trainers">
+              Trainers
+            </Link>
           </Nav>
         </Container>
       </Navbar>
