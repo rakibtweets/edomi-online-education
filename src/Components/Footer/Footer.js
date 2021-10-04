@@ -10,16 +10,16 @@ const Footer = () => {
           <h4 className="text-warning fw-bold">Edomi Online Education</h4>
           <h6>Do You Need Help With Anything?</h6>
           <p className="text-secondary">
-            Receive updates, hot deals, tutorials, discounts sent straignt in
-            your inbox every month
+            Receive updates, tutorials, discounts sent straignt in your inbox
+            every month
           </p>
           <div className="search-area input-group p-3">
             <input
-              className="form-control w-50 p-2"
+              className="form-control w-50 p-3"
               type="text"
               placeholder="Email Address"
             />
-            <button className="btn btn btn-primary">Search</button>
+            <button className="btn btn btn-primary">Subscribe</button>
           </div>
         </div>
         <div className="col-md-6">

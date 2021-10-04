@@ -13,7 +13,7 @@ const Banner = () => {
           Largest Selection of Courses
         </p>
         <h3 className="fw-bold">The Best Trainers and Build Your Future</h3>
-        <div className="search-area input-group w-25 mx-auto p-3">
+        <div className="search-area input-group w-50 mx-auto p-3">
           <input
             className="form-control mx-auto p-2"
             type="text"
