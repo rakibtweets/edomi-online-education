@@ -9,7 +9,7 @@ const Header = () => {
       <Navbar>
         <Container>
           <Link className="fw-bold nav-link h3 text-secondary" to="/home">
-            Edomi
+            <i className="fas fa-laptop-code brand-logo"></i> Edomi
           </Link>
           <Nav>
             <Link className="menu-items" to="/home">
