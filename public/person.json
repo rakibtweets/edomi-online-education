@@ -1,26 +1,56 @@
 [
   {
     "id": 1,
-    "Name": "Robert Petinson",
+    "name": "Robert Petinson",
+    "bio": "Robert Petinson is currently on company Facebook",
     "job": "React Trainer",
-    "rating": 4.9,
-    "reviews": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat",
+    "rating": 4.5,
+    "reviews": "I work in project management and joined Edomi because I get great courses for less. The instructors are fantastic, interesting, and helpful",
     "image": "https://spruko.com/demo/edomi/Edomi/assets/images/trainers/4.jpg"
   },
   {
     "id": 2,
-    "Name": "Criss Morise",
+    "name": "Criss Morise",
+    "bio": "Criss Morise have working on Big tech company like Amazon",
     "job": "Javascript Trainer",
-    "rating": 5,
-    "reviews": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat",
+    "rating": 4.8,
+    "reviews": "Thank you Edomi! You've renewed my passion for learning and my dream of becoming a web developer.",
     "image": "https://spruko.com/demo/edomi/Edomi/assets/images/trainers/6.jpg"
   },
   {
     "id": 3,
-    "Name": "Criss Morise",
+    "name": "Devid Malan",
+    "bio": "Devid Malan is currently on Desney World,Former Trainer in Soft-tech It",
     "job": "Web Designer",
-    "rating": 4.9,
-    "reviews": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat",
+    "rating": 4.3,
+    "reviews": "Thank you Edomi! You've renewed my passion for learning and my dream of becoming a web developer.",
     "image": "https://spruko.com/demo/edomi/Edomi/assets/images/trainers/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Wes Boss",
+    "job": "React js Trainer",
+    "bio": "Wes Boss is currently on Desney World,Former Trainer in Soft-tech It",
+    "rating": 5,
+    "reviews": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLSu__nn9q6m7BdEYGEn7HR-nSi7QltyfeEzRTSLv98=s900-c-k-c0x00ffffff-no-rj"
+  },
+  {
+    "id": 5,
+    "name": "Nas Daily",
+    "job": "Web Developer",
+    "bio": "Nas is currently on Desney World,Former Trainer in Soft-tech It",
+    "rating": 4,
+    "reviews": "Thank you Edomi! You've renewed my passion for learning and my dream of becoming a web developer.",
+    "image": "https://mb.com.ph/wp-content/uploads/2020/07/55925778_1284744681677681_3275068835585064960_o.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mosh Hamdani",
+    "job": "Web Developer",
+    "bio": "Mosh Hamdani is currently on Desney World,Former Trainer in Soft-tech It",
+    "rating": 3.8,
+    "reviews": "I work in project management and joined Edomi because I get great courses for less. The instructors are fantastic, interesting, and helpful",
+    "image": "https://yt3.ggpht.com/ytc/AKedOLQ09D8wVCdgWoCN3IPrvVKWi48-R2QZ_yJkCmKh-A=s900-c-k-c0x00ffffff-no-rj"
   }
 ]

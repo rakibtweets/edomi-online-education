@@ -53,6 +53,10 @@ const About = () => {
                 <i class="fas fa-user-check fa-3x text-success"></i>
               </div>
               <h4>Experience</h4>
+              <p className="text-secondary">
+                We help you to get Experice,Our target is to make you more
+                Experice
+              </p>
             </div>
           </div>
           <div className="col-md-3">
@@ -61,6 +65,10 @@ const About = () => {
                 <i class="fas fa-user-tie fa-3x text-success"></i>
               </div>
               <h4>Professionality</h4>
+              <p className="text-secondary">
+                We help you to work professionaly,You got real word profession
+                work
+              </p>
             </div>
           </div>
           <div className="col-md-3">
@@ -69,6 +77,9 @@ const About = () => {
                 <i class="fas fa-thumbs-up fa-3x text-success"></i>
               </div>
               <h4>Guarantee</h4>
+              <p className="text-secondary">
+                We Guarantee you quality of content and tremendous support
+              </p>
             </div>
           </div>
           <div className="col-md-3">
@@ -77,6 +88,9 @@ const About = () => {
                 <i class="fas fa-clipboard fa-3x text-success"></i>
               </div>
               <h4>Quality</h4>
+              <p className="text-secondary">
+                We provide you you helpful resourses and Quality content
+              </p>
             </div>
           </div>
         </div>

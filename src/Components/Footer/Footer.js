@@ -36,6 +36,9 @@ const Footer = () => {
                 <Link className="footer-link text-secondary" to="/courses">
                   Courses
                 </Link>
+                <Link className="footer-link text-secondary" to="/reviews">
+                  Reviews
+                </Link>
               </div>
             </div>
             <div className="col-md-6">

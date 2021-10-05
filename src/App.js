@@ -7,7 +7,7 @@ import About from './Components/About/About';
 import Footer from './Components/Footer/Footer';
 import NotFound from './Components/NotFound/NotFound';
 import AllCourses from './Components/AllCourses/AllCourses';
-import Trainers from './Trainers/Trainers';
+import Trainers from './Components/Trainers/Trainers';
 
 function App() {
   return (
@@ -27,7 +27,7 @@ function App() {
           <Route path="/courses">
             <AllCourses />
           </Route>
-          <Route path="/trainers">
+          <Route path="/reviews">
             <Trainers />
           </Route>
           <Route path="*">
