@@ -8,18 +8,18 @@ const Categories = () => {
       <div className=" categories  col-md-4">
         <div className="text-center card p-3">
           <div className="icon">
-            <i class="fas fa-code fa-3x"></i>
+            <i className="fas fa-code fa-3x"></i>
           </div>
           <div className="title text-center">
             <h4>Web Development</h4>
-            <p className="text-danger">23 Lectures</p>
+            <p className="text-danger">28 Lectures</p>
           </div>
         </div>
       </div>
       <div className=" categories col-md-4">
         <div className="text-center card p-3">
           <div className="icon">
-            <i class="far fa-window-restore fa-3x"></i>
+            <i className="far fa-window-restore fa-3x"></i>
           </div>
           <div className="title">
             <h4>Design</h4>
@@ -30,11 +30,11 @@ const Categories = () => {
       <div className=" categories col-md-4">
         <div className=" text-center card p-3">
           <div className="icon">
-            <i class="fas fa-money-check-alt fa-3x"></i>
+            <i className="fas fa-money-check-alt fa-3x"></i>
           </div>
           <div className="title">
             <h4>Banking</h4>
-            <p className="text-danger">15 Lectures</p>
+            <p className="text-danger">22 Lectures</p>
           </div>
         </div>
       </div>
